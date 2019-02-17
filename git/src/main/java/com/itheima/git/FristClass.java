@@ -14,6 +14,7 @@ public class FristClass{
         System.out.println("hello git");
         System.out.println("hello git");
         //hello
+        System.out.println("123");
     }
     public void test(){
         System.out.println("text");
